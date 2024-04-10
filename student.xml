@@ -1,0 +1,24 @@
+<root>
+    <students>
+        <student>
+            <id>1</id>
+            <name>Nguyen Thi Truong Giang</name>
+            <dateOfBirth>2005-10-07</dateOfBirth>
+        </student>
+        <student>
+            <id>2</id>
+            <name>Tran Phuoc Doan Nhat</name>
+            <dateOfBirth>2005-09-21</dateOfBirth>
+        </student>
+    </students>
+    <results>
+        <sumOfDigits>
+            <value>15</value>
+            <isPrime>false</isPrime>
+        </sumOfDigits>
+        <sumOfDigits>
+            <value>19</value>
+            <isPrime>true</isPrime>
+        </sumOfDigits>
+    </results>
+</root>
